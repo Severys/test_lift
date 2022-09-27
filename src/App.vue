@@ -35,6 +35,7 @@ export default {
 },
   data(){
     return {
+      ///Чтобы изменить кол-во этажей измените переменную numberofFloors
       numberofFloors: 5,
       floors: [],
       lift: {
